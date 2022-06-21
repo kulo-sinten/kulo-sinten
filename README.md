@@ -1,8 +1,6 @@
 ## Hey 👋, I'm KuloSinten!  
 
-### Senang bertemu denganmu di sini!  
-Saya seorang pengembang pemula . Peran saya disini hanya membagikan pengalaman adapun sebuah pengembangan software, source code dan lain-lain.   
-  
+### Senang bertemu denganmu di sini!     
 
 <br/>  
 
