@@ -1,4 +1,4 @@
-## Hey 👋, I'm KuloSinten!  
+## Hey 👋, I'm Kulo Sinten!  
 
 ### Senang bertemu denganmu di sini!     
 
