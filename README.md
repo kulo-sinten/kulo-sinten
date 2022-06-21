@@ -35,33 +35,5 @@ Saya seorang pengembang pemula . Peran saya disini hanya membagikan pengalaman a
 
 <br/>  
 
-  
-
-<br/>  
-
-
-## Visitor Counter  
-![Profile views counter](https://komarev.com/ghpvc/?username=rizkisquadpants&&style=flat-square)  
-  
-
-<br/>  
-
-
-## Donate  
-<div>
-            <a href="https://paypal.me/rizkidhc" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="left"
-                />
-            </a>
-            <a href="https://sociabuzz.com/rizkikotet/tribe" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-SocialBuzz-brightgreen" 
-                    align="left"
-                />
-            </a>
-<br />
-
 ----
-<div align="center">Created By <a href="https://facebook.com/rizkikotet22/" target="_blank">RizkiKotet</a></div>
+
