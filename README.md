@@ -14,6 +14,10 @@ class Asu:
         return langs,learning,using
     def Life(self, Hobby: str) -> str:
         return ["Mangan","Turu","Mangan","Turu","Mangan"]
+    def Wong_ndi(self):
+      return {
+        "kota": "Nganjux°City"
+      }
 
 ```
 
